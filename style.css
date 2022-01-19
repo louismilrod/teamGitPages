@@ -35,3 +35,14 @@
     height: 31.3em;
     background-color:rgba(0, 0, 0, 0.301)
 }
+
+section{
+    grid-template-columns: 20em 20em 20em 20em;
+    display: grid;
+    gap: 1em;
+    align-items: center;
+}
+
+body {
+    margin-left: 5em;
+}
